@@ -15,7 +15,7 @@ namespace BNG {
         private Vector3 _syncEndPosition = Vector3.zero;
         private Quaternion _syncStartRotation = Quaternion.identity;
         private Quaternion _syncEndRotation = Quaternion.identity;
-        private bool _syncBeingHeld = false;
+        public bool _syncBeingHeld = false;
 
         // Interpolation values
         private float _lastSynchronizationTime = 0f;

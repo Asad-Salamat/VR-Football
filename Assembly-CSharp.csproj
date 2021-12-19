@@ -142,6 +142,7 @@
      <Compile Include="Assets\Photon\PhotonLibs\WebSocket\WebSocket.cs" />
      <Compile Include="Assets\BNG Framework\Scripts\Extras\Explosive.cs" />
      <Compile Include="Assets\Photon\PhotonChat\Demos\Common\TextButtonTransition.cs" />
+     <Compile Include="Assets\BNG Framework\Integrations\PUN\GameObjective.cs" />
      <Compile Include="Assets\BNG Framework\Scripts\Helpers\StaticBatch.cs" />
      <Compile Include="Assets\BNG Framework\Scripts\Extras\DrawerSound.cs" />
      <Compile Include="Assets\BNG Framework\Scripts\Utility\VRUtils.cs" />
